@@ -25,7 +25,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=theo-fortune&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://livecodestream.dev/post/programming-memes/1_hu04f127da47abcc75c8958c18739e45ec_1603421_700x0_resize_q90_h2_lanczos_3.webp" width="512px"/>
+<img src="https://livecodestream.dev/post/programming-memes/1_hu04f127da47abcc75c8958c18739e45ec_1603421_700x0_resize_q90_h2_lanczos_3.webp" width="360px"/>
+<img src="https://i.chzbgr.com/full/9195092224/h08083A8B/programmer-meme-text-hide-and-seek-champion-since-1958" width="360px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=theo-fortune&icon=5&color=0)](https://visitcount.itsvg.in)
